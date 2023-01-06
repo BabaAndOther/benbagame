@@ -26,7 +26,7 @@ We don't even know what it does
 
 - Start postgresql server (if not yet) `sudo service postgresql start`
 - Start python virtual environment `source .venv/bin/activate`
-
+- Create a file `.env` with the same content from the file `.env.example` and fill in your own value
 
 ### Getting Started
 
