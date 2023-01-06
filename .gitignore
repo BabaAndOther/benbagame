@@ -1,0 +1,5 @@
+﻿.venv
+*/__pycache__
+.env
+babengame/*/__pycache__
+babengame/config/db.sqlite3
